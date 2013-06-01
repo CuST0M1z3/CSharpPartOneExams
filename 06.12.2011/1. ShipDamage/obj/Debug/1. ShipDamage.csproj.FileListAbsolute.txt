@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\1. ShipDamage\bin\Debug\_1.ShipDamage.exe.config
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\1. ShipDamage\bin\Debug\_1.ShipDamage.exe
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\1. ShipDamage\bin\Debug\_1.ShipDamage.pdb
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\1. ShipDamage\obj\Debug\_1.ShipDamage.exe
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\1. ShipDamage\obj\Debug\_1.ShipDamage.pdb
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\1. ShipDamage\obj\Debug\1. ShipDamage.csprojResolveAssemblyReference.cache

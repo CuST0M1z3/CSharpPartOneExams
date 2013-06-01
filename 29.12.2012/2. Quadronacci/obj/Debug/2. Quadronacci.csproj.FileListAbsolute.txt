@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\2. Quadronacci\bin\Debug\_2.Quadronacci.exe.config
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\2. Quadronacci\bin\Debug\_2.Quadronacci.exe
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\2. Quadronacci\bin\Debug\_2.Quadronacci.pdb
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\2. Quadronacci\obj\Debug\_2.Quadronacci.exe
+C:\Users\SpooN\Desktop\C# 29.12.2012\CSharp29.12.2012\2. Quadronacci\obj\Debug\_2.Quadronacci.pdb

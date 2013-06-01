@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\1. MathExpression\bin\Debug\_1.MathExpression.exe.config
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\1. MathExpression\obj\Debug\1. MathExpression.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\1. MathExpression\bin\Debug\_1.MathExpression.exe
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\1. MathExpression\bin\Debug\_1.MathExpression.pdb
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\1. MathExpression\obj\Debug\_1.MathExpression.exe
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\1. MathExpression\obj\Debug\_1.MathExpression.pdb

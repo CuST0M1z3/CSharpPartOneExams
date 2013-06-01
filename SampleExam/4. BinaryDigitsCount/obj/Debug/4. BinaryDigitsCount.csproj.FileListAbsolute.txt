@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\4. BinaryDigitsCount\bin\Debug\_4.BinaryDigitsCount.exe.config
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\4. BinaryDigitsCount\bin\Debug\_4.BinaryDigitsCount.exe
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\4. BinaryDigitsCount\bin\Debug\_4.BinaryDigitsCount.pdb
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\4. BinaryDigitsCount\obj\Debug\_4.BinaryDigitsCount.exe
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\4. BinaryDigitsCount\obj\Debug\_4.BinaryDigitsCount.pdb

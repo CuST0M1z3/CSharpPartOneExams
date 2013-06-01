@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\2. Tribonacci\bin\Debug\_2.Tribonacci.exe.config
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\2. Tribonacci\bin\Debug\_2.Tribonacci.exe
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\2. Tribonacci\bin\Debug\_2.Tribonacci.pdb
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\2. Tribonacci\obj\Debug\2. Tribonacci.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\2. Tribonacci\obj\Debug\_2.Tribonacci.exe
+C:\Users\SpooN\Desktop\C# 06.12.2011 Morning\Solution1\2. Tribonacci\obj\Debug\_2.Tribonacci.pdb

@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\1. CartesianSystem\bin\Debug\_1.CartesianSystem.exe.config
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\1. CartesianSystem\bin\Debug\_1.CartesianSystem.exe
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\1. CartesianSystem\bin\Debug\_1.CartesianSystem.pdb
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\1. CartesianSystem\obj\Debug\1. CartesianSystem.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\1. CartesianSystem\obj\Debug\_1.CartesianSystem.exe
+C:\Users\SpooN\Desktop\C# Part1 SampleExam\CSharpSampleExam\1. CartesianSystem\obj\Debug\_1.CartesianSystem.pdb

@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\3. Sheets\bin\Debug\_3.Sheets.exe.config
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\3. Sheets\bin\Debug\_3.Sheets.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\3. Sheets\bin\Debug\_3.Sheets.pdb
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\3. Sheets\obj\Debug\_3.Sheets.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\3. Sheets\obj\Debug\_3.Sheets.pdb
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\3. Sheets\obj\Debug\3. Sheets.csprojResolveAssemblyReference.cache

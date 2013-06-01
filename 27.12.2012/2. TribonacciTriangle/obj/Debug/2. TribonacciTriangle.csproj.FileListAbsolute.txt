@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\2. TribonacciTriangle\bin\Debug\_2.TribonacciTriangle.exe.config
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\2. TribonacciTriangle\bin\Debug\_2.TribonacciTriangle.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\2. TribonacciTriangle\bin\Debug\_2.TribonacciTriangle.pdb
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\2. TribonacciTriangle\obj\Debug\_2.TribonacciTriangle.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\2. TribonacciTriangle\obj\Debug\_2.TribonacciTriangle.pdb
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\2. TribonacciTriangle\obj\Debug\2. TribonacciTriangle.csprojResolveAssemblyReference.cache

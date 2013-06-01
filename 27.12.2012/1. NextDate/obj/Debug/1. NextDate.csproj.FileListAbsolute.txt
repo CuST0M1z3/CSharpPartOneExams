@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\1. NextDate\bin\Debug\_1.NextDate.exe.config
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\1. NextDate\bin\Debug\_1.NextDate.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\1. NextDate\bin\Debug\_1.NextDate.pdb
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\1. NextDate\obj\Debug\1. NextDate.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\1. NextDate\obj\Debug\_1.NextDate.exe
+C:\Users\SpooN\Desktop\C# 27.12.2012\CSharp27.12.2012\1. NextDate\obj\Debug\_1.NextDate.pdb

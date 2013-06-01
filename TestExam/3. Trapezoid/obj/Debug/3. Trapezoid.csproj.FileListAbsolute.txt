@@ -1,0 +1,5 @@
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\3. Trapezoid\bin\Debug\_3.Trapezoid.exe.config
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\3. Trapezoid\bin\Debug\_3.Trapezoid.exe
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\3. Trapezoid\bin\Debug\_3.Trapezoid.pdb
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\3. Trapezoid\obj\Debug\_3.Trapezoid.exe
+C:\Users\SpooN\Desktop\C# Part1 TestExam\CSharpTestExam\3. Trapezoid\obj\Debug\_3.Trapezoid.pdb

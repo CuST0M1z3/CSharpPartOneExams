@@ -1,0 +1,6 @@
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\1. FighterAttack\bin\Debug\_1.FighterAttack.exe.config
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\1. FighterAttack\bin\Debug\_1.FighterAttack.exe
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\1. FighterAttack\bin\Debug\_1.FighterAttack.pdb
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\1. FighterAttack\obj\Debug\1. FighterAttack.csprojResolveAssemblyReference.cache
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\1. FighterAttack\obj\Debug\_1.FighterAttack.exe
+C:\Users\SpooN\Desktop\C# 07.12.2011 Evening\CSharp07.12.2011\1. FighterAttack\obj\Debug\_1.FighterAttack.pdb
